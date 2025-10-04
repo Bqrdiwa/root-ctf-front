@@ -1,0 +1,86 @@
+@import url(fontiran.css);
+body {
+  font-family: IRANSans !important;
+  font-weight: 300;
+  direction: rtl;
+  min-height: 100vh;
+  font-size:12vw;
+}
+
+
+h1, h2, h3, h4, h5, h6, input, textarea {
+  font-size: 12vw;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.ltr {
+  direction: ltr;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-small {
+  font-size: 0.8em;
+}
+
+.text-xsmall {
+  font-size: 0.6em;
+}
+
+.text-large {
+  font-size: 1.2em;
+}
+
+.text-xlarge {
+  font-size: 1.4em;
+}
+
+.text-underline {
+  text-decoration: underline;
+}
+
+.text-ultralight {
+  font-weight: 200;
+}
+
+.text-light {
+  font-weight: 300;
+}
+
+.text-regular {
+  font-weight: normal;
+}
+
+.text-medium {
+  font-weight: 500;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.account-form{
+  max-width: 500px;
+}
+
+.rotate-180{
+  transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform-origin: center center;
+}

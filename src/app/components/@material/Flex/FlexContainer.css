@@ -1,0 +1,115 @@
+.flex-container {
+  display: flex;
+}
+
+.flex-container.justify-items-stretch {
+  justify-items: stretch;
+}
+
+.flex-container.justify-items-baseline {
+  justify-items: baseline;
+}
+
+.flex-container.justify-items-center {
+  justify-items: center;
+}
+
+.flex-container.justify-items-flex-start {
+  justify-items: flex-start;
+}
+
+.flex-container.justify-items-flex-end {
+  justify-items: flex-end;
+}
+
+.flex-container.justify-content-flex-start {
+  justify-content: flex-start;
+}
+
+.flex-container.justify-content-flex-end {
+  justify-content: flex-end;
+}
+
+.flex-container.justify-content-center {
+  justify-content: center;
+}
+
+.flex-container.justify-content-space-around {
+  justify-content: space-around;
+}
+
+.flex-container.justify-content-space-between {
+  justify-content: space-between;
+}
+
+.flex-container.alignItems-stretch {
+  align-items: stretch;
+}
+
+.flex-container.alignItems-baseline {
+  align-items: baseline;
+}
+
+.flex-container.alignItems-center {
+  align-items: center;
+}
+
+.flex-container.alignItems-flex-start {
+  align-items: flex-start;
+}
+
+.flex-container.alignItems-flex-end {
+  align-items: flex-end;
+}
+
+.flex-container.align-content-flex-start {
+  align-content: flex-start;
+}
+
+.flex-container.align-content-flex-end {
+  align-content: flex-end;
+}
+
+.flex-container.align-content-center {
+  align-content: center;
+}
+
+.flex-container.align-content-space-around {
+  align-content: space-around;
+}
+
+.flex-container.align-content-space-between {
+  align-content: space-between;
+}
+
+.flex-container.align-content-stretch {
+  align-content: stretch;
+}
+
+.flex-container.direction-row {
+  flex-direction: row;
+}
+
+.flex-container.direction-row-reverse {
+  flex-direction: row-reverse;
+}
+
+.flex-container.direction-column {
+  flex-direction: column;
+}
+
+.flex-container.direction-column-reverse {
+  flex-direction: column-reverse;
+}
+
+.flex-container.wrap-nowarp {
+  flex-wrap: nowrap;
+}
+
+.flex-container.wrap-warp {
+  flex-wrap: wrap;
+}
+
+.flex-container.wrap-wrap-reverse {
+  flex-wrap: wrap-reverse;
+}

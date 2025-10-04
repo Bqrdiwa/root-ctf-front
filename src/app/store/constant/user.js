@@ -1,0 +1,5 @@
+export const UPLOAD_USER_INFO_RESULT = "UPLOAD_USER_INFO_RESULT";
+export const UPLOAD_CTF_LOGO = "UPLOAD_CTF_LOGO";
+export const UPLOAD_TOKENS = "UPLOAD_TOKENS";
+export const LOGOUT = "LOGOUT";
+export const UPLOAD_TIMER="UPLOAD_TIMER";

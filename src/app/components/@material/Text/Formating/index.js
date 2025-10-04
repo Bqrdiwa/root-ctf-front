@@ -1,0 +1,10 @@
+export { Bold } from './Bold';
+export { Strong } from './Strong';
+export { Italic } from './Italic';
+export { Emphasized } from './Emphasized';
+export { Marked } from './Marked ';
+export { Small } from './Small';
+export { Delete } from './Delete';
+export { Inserted } from './Inserted';
+export { Subscript } from './Subscript';
+export { Superscript } from './Superscript';

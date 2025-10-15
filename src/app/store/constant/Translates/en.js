@@ -32,7 +32,8 @@ export default {
   rePassword: "Confirm password",
   nationality: "Nationality",
   organ: "Organization",
-  register_email: "The winners will be contacted via this email to receive their prize. ",
+  register_email:
+    "The winners will be contacted via this email to receive their prize. ",
   signIn: "Sign In",
   signUp: "Sign Up",
 
@@ -40,15 +41,17 @@ export default {
   send: "Send",
   email: "email",
   postmail: "Email address",
-  messageforgetpass: "If you have entered a valid email, you will receive an email that allows you to change your password.",
+  messageforgetpass:
+    "If you have entered a valid email, you will receive an email that allows you to change your password.",
 
   passwordRecovery: "Password recovery",
   newPassword: "New password",
   confirmNewPassword: "Confirm new password",
   save: "save",
 
-  accountpartMessage1: "Apa Razi CTF",
-  accountpartMessage2: "Razi university",
+  accountpartMessage1: "Internet of Things Technology Olympiad",
+  accountpartMessage2:
+    "Razi University APA Center – Kermanshah Innovation Factory",
 
   awardTitle: "CTF Contest Awards",
   sponseraTitle: "Sponsors",
@@ -70,7 +73,6 @@ export default {
   website: "Website",
   notfound: "Result not found",
 
-
   ranking: "Ranking",
   totalScore: "Total Score",
 
@@ -87,7 +89,8 @@ export default {
   chartcategoryTitle: "Correct Answer - Challenge category",
 
   contactListMessage: "List of received messages",
-  contactTitle: "This form enables you to contact us. Fill it and send it, we will send you an email as soon as possible. ",
+  contactTitle:
+    "This form enables you to contact us. Fill it and send it, we will send you an email as soon as possible. ",
   contactSuccess: "Successfully submitted",
   contactFaild: "Error sending message",
   subject: "Subject",
@@ -101,7 +104,8 @@ export default {
   return: "Return",
 
   challengeCategoryTitle: "Challenges List",
-  challengeCategoryDescription: "A summary of the full list of challenges provided on the website, along with a description of each challenge, is available here. ",
+  challengeCategoryDescription:
+    "A summary of the full list of challenges provided on the website, along with a description of each challenge, is available here. ",
   challenge: "Challenge",
 
   writer: "Author",
@@ -138,7 +142,8 @@ export default {
   Usercomments: "User comments",
   Unapprovedcomments: "Unapproved comments",
   Confirmation: "Confirmation",
-  pointSocketDown: "There is a problem with the server. Please refresh the page.",
+  pointSocketDown:
+    "There is a problem with the server. Please refresh the page.",
   successToken: "Your token is valid",
   faildToken: "Your token is invalid",
   TeamStatistics: "Teams Statistics",
@@ -158,21 +163,19 @@ export default {
   beforeTheEnd: "before the end",
   sign: "%",
 
-
   StartTime: "Remaining Time to Start: ",
-  EndTime:"Remaining Time to End:  ",
+  EndTime: "Remaining Time to End:  ",
 
-  noStartCtf:" The match has not started  ",
+  noStartCtf: " The match has not started  ",
   country: "Country",
 
+  servererror: "server error !",
+  selectAnOption: "---",
 
-  servererror:"server error !",
-  selectAnOption:"---",
+  registeractivated1: "Your account has been activated. ",
+  registeractivated2: "Please go to login page.",
+  reminingTime: "Remaining  time: ",
 
-  registeractivated1:"Your account has been activated. ",
-  registeractivated2:"Please go to login page.",
-  reminingTime:"Remaining  time: ",
-
-  discord:"Discord Server",
-  discordText:"Join the Discord Server",
-}
+  discord: "Discord Server",
+  discordText: "Join the Discord Server",
+};

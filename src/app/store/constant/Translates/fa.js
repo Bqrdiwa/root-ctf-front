@@ -1,5 +1,4 @@
 export default {
-
   welcomeLoading: "به فتح پرچم رازی خوش آمدید",
 
   seconds: "ثانیه",
@@ -17,7 +16,6 @@ export default {
   registerSuccess: "حساب کاربری شما با موفقیت ایجاد شد. ",
   registerSuccess2: "لطفا جهت فعالسازی، ایمیل خود را بررسی نمایید",
 
-
   activeSuccess: "حساب کاربری شما با موفقیت فعالسازی شد",
   activeFaild: "توکن شما برای فعالسازی نامعتبر است",
 
@@ -34,8 +32,8 @@ export default {
   rePassword: "تکرار رمزعبور",
   nationality: "تابعیت",
   organ: "سازمان",
-  register_email: "با برندگان مسابقه از طریق این ایمیل جهت دریافت جایزه مکاتبه خواهد شد. ",
-
+  register_email:
+    "با برندگان مسابقه از طریق این ایمیل جهت دریافت جایزه مکاتبه خواهد شد. ",
 
   signIn: "ورود",
   signUp: "ثبت نام",
@@ -44,19 +42,21 @@ export default {
   send: "ارسال",
   email: "ایمیل",
   postmail: "آدرس پست‌الکترونیکی",
-  messageforgetpass: "چنانچه ایمیل وارد شده معتبر باشد، شما یک ایمیل جهت بازیابی رمز عبور خود دریافت خواهید کرد. ",
+  messageforgetpass:
+    "چنانچه ایمیل وارد شده معتبر باشد، شما یک ایمیل جهت بازیابی رمز عبور خود دریافت خواهید کرد. ",
 
   passwordRecovery: "بازیابی رمز عبور",
   newPassword: "رمز عبور جدید",
   confirmNewPassword: "تکرار رمز عبور جدید",
   save: "ذخیره",
 
-  accountpartMessage1: "فتح پرچم آپا",
-  accountpartMessage2: "دانشگاه رازی",
+  accountpartMessage1: "المپیک فناوری اینترنت اشیا",
+  accountpartMessage2: "مرکز آپای دانشگاه رازی - کارخانه نوآوری کرمانشاه",
 
   awardTitle: "جوایز مسابقه فتح پرچم",
   sponseraTitle: "حامیان",
-  footerTitle: "© تمام حقوق این سایت برای مرکز آپا دانشگاه رازی محفوظ می باشد. ",
+  footerTitle:
+    "© تمام حقوق این سایت برای مرکز آپا دانشگاه رازی محفوظ می باشد. ",
   Confidentiality: "محرمانگی",
   Disclaimer: "سلب مسئولیت حقوقی",
   Termsofservice: "شرایط استفاده از خدمات",
@@ -68,7 +68,6 @@ export default {
   report: "گزارش",
   sources: "منابع",
   persons: "تیم‌ها",
-
 
   username: "نام تیم",
   avatar: "تصویر",
@@ -90,9 +89,9 @@ export default {
   chartRateTitle: "نرخ پاسخ صحیح",
   chartcategoryTitle: "پاسخ صحیح-دسته چالش ها",
 
-
   contactListMessage: "لیست پیغام‌های دریافت شده",
-  contactTitle: "این فرم امکان ارتباط با ما را فراهم میکند.آن را پر کرده‌ و ارسال نمایید. در اسرع وقت از طریق ایمیل پاسخ خواهیم داد.",
+  contactTitle:
+    "این فرم امکان ارتباط با ما را فراهم میکند.آن را پر کرده‌ و ارسال نمایید. در اسرع وقت از طریق ایمیل پاسخ خواهیم داد.",
   contactSuccess: "با موفقیت ارسال شد.",
   contactFaild: "ارسال با خطا مواجهه شده‌است",
   subject: "موضوع",
@@ -106,7 +105,8 @@ export default {
   return: "بازگشت",
 
   challengeCategoryTitle: "لیست چالش‌ها",
-  challengeCategoryDescription: "خلاصه‌ای از لیست کل چالش‌هایی که در وب سایت ارایه شده‌است به همراه توضیحات هر چالش در اینجا قابل دسترس است.",
+  challengeCategoryDescription:
+    "خلاصه‌ای از لیست کل چالش‌هایی که در وب سایت ارایه شده‌است به همراه توضیحات هر چالش در اینجا قابل دسترس است.",
   challenge: "چالش",
 
   writer: "نویسنده",
@@ -173,10 +173,10 @@ export default {
   servererror: "خطای سرور! ",
   selectAnOption: "---",
 
-  registeractivated1:"حساب کاربری شما فعال شده است. ",
-  registeractivated2:"لطفا به صفحه ورود بروید.",
-  reminingTime:"زمان باقیمانده: ",
+  registeractivated1: "حساب کاربری شما فعال شده است. ",
+  registeractivated2: "لطفا به صفحه ورود بروید.",
+  reminingTime: "زمان باقیمانده: ",
 
-  discord:"سرور دیسکورد",
-  discordText:"به سرور دیسکورد ملحق شوید",
-}
+  discord: "سرور دیسکورد",
+  discordText: "به سرور دیسکورد ملحق شوید",
+};

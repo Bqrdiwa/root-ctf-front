@@ -93,9 +93,10 @@ import { ReactComponent as Telegram } from "../../../statics/image/telegram.svg"
 import { ReactComponent as Instagram } from "../../../statics/image/instagram.svg";
 import { ReactComponent as Internet } from "../../../statics/image/internet.svg";
 import { ReactComponent as Json } from "../../../statics/image/json.svg";
-import { ReactComponent as ApaEn } from "../../../statics/image/apa-logo-en.png";
-import { ReactComponent as ApaFa } from "../../../statics/image/apa-logo-fa.png";
-
+import { ReactComponent as ApaLogoEng } from "../../../statics/image/apa-logo-fa.svg";
+import { ReactComponent as ApaLogoFa } from "../../../statics/image/apa-logo-en.svg";
+import { ReactComponent as FactoryLogoFa } from "../../../statics/image/factory-Fa.png";
+import { ReactComponent as FactoryLogoEng } from "../../../statics/image/factory-Eng.png";
 import { ReactComponent as ChallengeMe } from "../../../statics/image/challenge-me.svg";
 import { ReactComponent as ContactMe } from "../../../statics/image/contact-me.svg";
 import { ReactComponent as FaqMe } from "../../../statics/image/faq-me.svg";
@@ -110,8 +111,10 @@ export const ruleMe = RuleMe;
 export const rankingMe = RankingMe;
 export const teamsMe = TeamsMe;
 
-export const apaEn = ApaEn;
-export const apaFa = ApaFa;
+export const apaEn = ApaLogoEng;
+export const apaFa = ApaLogoFa;
+export const facEn = FactoryLogoEng;
+export const facFa = FactoryLogoFa;
 
 export const json = Json;
 export const internet = Internet;

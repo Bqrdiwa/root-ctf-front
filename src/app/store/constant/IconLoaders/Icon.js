@@ -111,8 +111,8 @@ export const ruleMe = RuleMe;
 export const rankingMe = RankingMe;
 export const teamsMe = TeamsMe;
 
-export const apaEn = ApaLogoEng;
-export const apaFa = ApaLogoFa;
+export const apaLogoEng = ApaLogoEng;
+export const apaLogoFa = ApaLogoFa;
 export const facEn = FactoryLogoEng;
 export const facFa = FactoryLogoFa;
 

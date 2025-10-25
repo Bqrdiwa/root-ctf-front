@@ -51,16 +51,23 @@ export const AccountPart = withRouter((props) => {
         width="50%"
       >
         <Div className="content-text">
-          <div style={{ display: "flex", gap: "4px" }}>
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+              gap: "4px",
+            }}
+          >
             {localStorage[LANGUAGE] === "en" ? (
               <Icon name="apaLogoEng" size="250px" className="content-image" />
             ) : (
               <Icon name="apaLogoFa" size="250px" className="content-image" />
             )}
             {localStorage[LANGUAGE] === "en" ? (
-              <Icon name="facEn" size="250px" className="content-image" />
+              <Icon name="facEn" size="auto" className="content-image" />
             ) : (
-              <Icon name="facFa" size="250px" className="content-image" />
+              <Icon name="facFa" size="auto" className="content-image" />
             )}
           </div>
 
